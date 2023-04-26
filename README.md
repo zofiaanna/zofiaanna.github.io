@@ -1,3 +1,3 @@
 ## Zofia Anna
 
-Hej, to ja. Czasem tu sobie piszę.
+To jest repozytorium z moim blogiem [zofiaanna.github.io](https://zofiaanna.github.io/)
